@@ -1,0 +1,12 @@
+.idea/
+target/
+logs/
+work/
+.lein-repl-history
+.nrepl-port
+.DS_Store
+
+config.clj
+config.edn
+newrelic.yml
+

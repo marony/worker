@@ -1,0 +1,13 @@
+{
+  :site-name "ŽÐ’{.net"
+  :site-url "http://http://aaa.bbb.ccc.ddd:3000/"
+  :logo-path "/img/Logo_dev.png"
+  :mail-from "xxx@xxx.com"
+  :tweet 0
+  :port 3000
+  :db
+  {:subprotocol "postgresql"
+   :subname "//localhost/worker"
+   :user "xxx"
+   :password "xxx"}
+  }

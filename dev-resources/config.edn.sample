@@ -1,0 +1,18 @@
+{
+  :mode "development"
+  :site-url "http://aaa.bbb.ccc.ddd:3000"
+  :smtp-port 587
+  :smtp-host-name "smtp.xxx.com"
+  :smtp-user-name "xxx@xxx.com"
+  :smtp-password "xxx"
+  :smtpTLS true
+  :mail-from "xxx@xxx.com"
+  :port 3000
+  :db
+  {:subprotocol "postgresql"
+   :subname "//localhost/worker"
+   :user "xxx"
+   :password "xxx"}
+  :twitter-api-key "xxx"
+  :twitter-api-secret "xxx"
+  }
